@@ -1,0 +1,13 @@
+.nav{
+    list-style-type: 
+    none;
+background-color: yellow;
+text-align:center ;
+margin: 0px;
+padding: 0px;}
+.nav li{
+    display: inline-block;
+    padding: 20px;
+font-size: x-large;}
+img{ opacity: 0.1;}
+img:hover{opacity: 0.9;}
